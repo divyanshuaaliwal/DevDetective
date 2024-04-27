@@ -16,7 +16,6 @@ DevDetective is a web application designed to provide insights into GitHub users
 
 To use DevDetective:
 
-1. Visit the [DevDetective website](#) (replace "#" with your actual website URL).
-2. Enter a GitHub username into the search bar.
-3. Click the "Search" button.
-4. Explore the detailed profile information provided.
+1. Enter a GitHub username into the search bar.
+2. Click the "Search" button.
+3. Explore the detailed profile information provided.
